@@ -5,15 +5,6 @@ sayHi('susan')
 sayHi(names.john)
 sayHi(names.peter)
 
-
-
-
-
-
-
-
-
-
 const amount = 12
 
 if (amount < 10){
@@ -23,6 +14,6 @@ else {
     console.log('large number')
 }
 console.log(names)
-console.log(`Hey it's my first node app!!!!`)
+console.log(`Hey it's my tenth node app!!!!`)
 
 
